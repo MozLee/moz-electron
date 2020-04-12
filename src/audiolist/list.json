@@ -1,0 +1,14 @@
+{
+  "title": "音效列表",
+  "data": [{
+      "name": "唰,转场",
+      "url": "/audio/唰声转场的声音音效.mp3",
+      "quickKey": 1
+    },
+    {
+      "name": "嗯？",
+      "url": "/audio/嗯2.mp3",
+      "quickKey": 2
+    }
+  ]
+}
