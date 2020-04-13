@@ -2,7 +2,7 @@
   <div class="audio-player">
     <el-button type="primary" plain @click="play">{{name}}</el-button>
     <br>
-    <el-tag type="info">快捷键{{keyCode}}</el-tag>
+    <el-tag type="info">快捷键{{keyCode||"无"}}</el-tag>
     <!-- <el-select v-model="keyValue" placeholder="选择快捷键" @change="changeQuick">
       <el-option v-for="item in quickKey" :key="item.value" :label="item.label" :value="item.value" >
       </el-option>
@@ -23,7 +23,7 @@ export default {
     },
     keyCode: {
       type: Number,
-      required: true
+      required: false
     }
   },
   data () {

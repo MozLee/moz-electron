@@ -1,14 +1,1 @@
-{
-  "title": "音效列表",
-  "data": [{
-      "name": "唰,转场",
-      "url": "/audio/唰声转场的声音音效.mp3",
-      "quickKey": 1
-    },
-    {
-      "name": "嗯？",
-      "url": "/audio/嗯2.mp3",
-      "quickKey": 2
-    }
-  ]
-}
+{"title":"音效列表","data":[{"name":"冰冻结的声音","url":"/audio/冰冻结的声音.mp3","quickKey":1},{"name":"吃饼干嘎嘣脆","url":"/audio/吃饼干嘎嘣脆.mp3","quickKey":2},{"name":"唰声转场的声音音效","url":"/audio/唰声转场的声音音效.mp3","quickKey":3},{"name":"嗯","url":"/audio/嗯2.mp3","quickKey":4},{"name":"地下室开门","url":"/audio/地下室开门.mp3","quickKey":5},{"name":"恭喜获得胜利音效","url":"/audio/恭喜获得胜利音效.mp3","quickKey":6},{"name":"曾小贤笑声","url":"/audio/曾小贤笑声6.mp3","quickKey":7},{"name":"曾小贤笑声","url":"/audio/曾小贤笑声9 (1).mp3","quickKey":8},{"name":"曾小贤笑声","url":"/audio/曾小贤笑声9.mp3","quickKey":9},{"name":"爆炸","url":"/audio/爆炸.mp3"},{"name":"狗惨叫","url":"/audio/狗惨叫.mp3"},{"name":"玻璃碰撞破碎声","url":"/audio/玻璃碰撞破碎声.mp3"},{"name":"电视机雪花兹拉声","url":"/audio/电视机雪花兹拉声.mp3"},{"name":"疯狂愤怒的小狗铃声","url":"/audio/疯狂愤怒的小狗铃声.mp3"},{"name":"综艺哇喔音效","url":"/audio/综艺哇喔音效.wav"},{"name":"综艺尴尬阿欧音效","url":"/audio/综艺尴尬阿欧音效.wav"},{"name":"综艺思考后有想法了音效","url":"/audio/综艺思考后有想法了音效.mp3"},{"name":"车祸碰撞","url":"/audio/车祸碰撞.mp3"}]}

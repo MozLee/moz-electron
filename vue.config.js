@@ -8,11 +8,14 @@ module.exports = {
         directories: {
           output: './dist'// 输出文件路径
         },
+        mac: {
+          icon: './music.icns'
+        },
         win: { // win相关配置
-          // icon: './shanqis.ico', // 图标，当前图标在根目录下，注意这里有两个坑
+          icon: './music.ico', // 图标，当前图标在根目录下，注意这里有两个坑
           target: [
             {
-              target: 'nsis', // 利用nsis制作安装程序
+              target: 'zip', // 利用nsis制作安装程序
               arch: [
                 'x64', // 64位
                 'ia32'// 32位

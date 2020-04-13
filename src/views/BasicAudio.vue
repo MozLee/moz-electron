@@ -22,5 +22,9 @@ export default {
 <style lang="scss">
 #basic-audio{
   display: flex;
+  justify-items: center;
+  justify-content: space-around;
+
+  flex-wrap:wrap
 }
 </style>
